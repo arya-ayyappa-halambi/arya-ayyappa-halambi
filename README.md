@@ -8,6 +8,9 @@
   <a href="https://linkedin.com/in/arya-ayyappa-halambi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
+  <a href="https://x.com/AryaHalambi" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-2563EB?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0a" alt="X" />
+  </a>
   <a href="https://www.instagram.com/arreyaar.17?stkn=MWVqejZmd3F1b3g1aA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-arreyaar.17-2563EB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
@@ -67,18 +70,18 @@
   </tr>
 </table>
 
-<h2 align="center">Featured Spotlight</h2>
+<h2 align="center">Featured Department Initiative</h2>
 
 <table width="100%" border="0" align="center">
   <tr>
     <td align="center" style="padding: 22px;">
-      <h3>CampusAsthra — Academic Management Platform (Prototype)</h3>
-      <p><i>A VTU-compliant Single Page Application prototype featuring client-side Face ID biometrics, Llama-3 AI integration, SheetJS report parsing, and Firebase backend infrastructure.</i></p>
+      <h3>Student Academic Cycle Tracking Platform</h3>
+      <p><i>An enterprise-level analytics and management platform co-architected for 1,000+ students across the CSE Department at BMSCE. Features automated OCR document ingestion for digital result sheets, computation engines for SGPA/CGPA and backlogs, and dedicated administrative analytics dashboards for faculty and the Head of Department.</i></p>
       <br />
       <p>
-        <a href="https://campus-asthra-v2.netlify.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Prototype-🚀%20Visit%20Platform-2563EB?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0a0a0a" alt="Live Prototype" />
-        </a>
+        <img src="https://img.shields.io/badge/Scale-1000%2B%20Students-2563EB?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="User Scale" />
+        <img src="https://img.shields.io/badge/Recognition-HOD%20Letter%20of%20Acknowledgement-111111?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="Recognition" />
+        <img src="https://img.shields.io/badge/Department-CSE%20%40%20BMSCE-2563EB?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="Department" />
       </p>
     </td>
   </tr>
@@ -120,21 +123,27 @@
 
 <table border="0" align="center">
   <tr>
-    <td align="center" width="200" style="padding: 16px;">
+    <td align="center" width="160" style="padding: 12px;">
       <a href="https://linkedin.com/in/arya-ayyappa-halambi" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /><br /><br />
+        <img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44" alt="LinkedIn" /><br /><br />
         <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
       </a>
     </td>
-    <td align="center" width="200" style="padding: 16px;">
+    <td align="center" width="160" style="padding: 12px;">
+      <a href="https://x.com/AryaHalambi" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" width="44" height="44" alt="X" /><br /><br />
+        <img src="https://img.shields.io/badge/X-@AryaHalambi-2563EB?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0a" alt="X" />
+      </a>
+    </td>
+    <td align="center" width="160" style="padding: 12px;">
       <a href="https://www.instagram.com/arreyaar.17?stkn=MWVqejZmd3F1b3g1aA==" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" /><br /><br />
+        <img src="https://skillicons.dev/icons?i=instagram" width="44" height="44" alt="Instagram" /><br /><br />
         <img src="https://img.shields.io/badge/Instagram-@arreyaar.17-2563EB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
       </a>
     </td>
-    <td align="center" width="200" style="padding: 16px;">
+    <td align="center" width="160" style="padding: 12px;">
       <a href="mailto:aryaayyappahalambi@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" /><br /><br />
+        <img src="https://skillicons.dev/icons?i=gmail" width="44" height="44" alt="Gmail" /><br /><br />
         <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
       </a>
     </td>
