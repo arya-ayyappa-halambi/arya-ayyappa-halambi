@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/arya-ayyappa-halambi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=700&lines=Hi%2C%20I'm%20H%20R%20Arya%20Ayyappa%20Halambi%20%F0%9F%91%8B;CSE%20Undergrad%20%40%20BMSCE%20(CGPA%3A%208.95);Co-Architect%20of%20Student%20Academic%20Cycle%20Platform;Mega%20Hackathon%20Runner-Up%20%7C%20Creator%20of%20Kavach;Building%20Automated%20Analytics%2C%20AI%20%26%20Web%20Platforms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=720&lines=Hi%2C%20I'm%20H%20R%20Arya%20Ayyappa%20Halambi%20%F0%9F%91%8B;CSE%20Undergrad%20%40%20BMSCE%20(CGPA%3A%208.95);Co-Architect%20of%20Student%20Academic%20Cycle%20Platform;Mega%20Hackathon%20Runner-Up%20%7C%20Co-Developer%20of%20Kavach;Building%20Automated%20Analytics%2C%20AI%20%26%20Web%20Platforms" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,12 +40,12 @@
     <td width="50%" align="center" style="padding: 14px;">
       <h4>Department Initiative</h4>
       <p><b>Student Academic Cycle Tracking Platform</b><br />
-      <sub>Enterprise platform for 1,000+ students (Awarded HOD Letter of Acknowledgement)</sub></p>
+      <sub>Co-architected platform for 1,000+ students (Awarded HOD Letter of Acknowledgement)</sub></p>
     </td>
     <td width="50%" align="center" style="padding: 14px;">
       <h4>Competitive Achievement</h4>
       <p><b>2nd Place — Mega Hackathon</b><br />
-      <sub>"Kavach" Real-time border security & live telemetry intelligence</sub></p>
+      <sub>Co-developed "Kavach" border intelligence platform with team</sub></p>
     </td>
   </tr>
   <tr>
