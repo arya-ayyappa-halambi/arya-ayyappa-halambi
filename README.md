@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/arya-ayyappa-halambi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=620&lines=Hi%2C%20I'm%20H%20R%20Arya%20Ayyappa%20Halambi%20%F0%9F%91%8B;CSE%20%40%20BMSCE%20%7C%20Developer%20%26%20Builder;AI%2C%20Web%20Platforms%20%26%20Automated%20Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=700&lines=Hi%2C%20I'm%20H%20R%20Arya%20Ayyappa%20Halambi%20%F0%9F%91%8B;CSE%20Undergrad%20%40%20BMSCE%20(CGPA%3A%208.95);Co-Architect%20of%20Student%20Academic%20Cycle%20Platform;Mega%20Hackathon%20Runner-Up%20%7C%20Creator%20of%20Kavach;Building%20Automated%20Analytics%2C%20AI%20%26%20Web%20Platforms" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=2563EB&labelColor=0a0a0a" alt="GitHub" />
   </a>
   <a href="https://campus-asthra-v2.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Platform-CampusAsthra-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0a0a0a" alt="CampusAsthra" />
+    <img src="https://img.shields.io/badge/Live%20Prototype-CampusAsthra-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0a0a0a" alt="CampusAsthra" />
   </a>
 </p>
 
@@ -50,8 +50,8 @@
   </tr>
   <tr>
     <td width="50%" align="center" style="padding: 14px;">
-      <h4>Live Project</h4>
-      <p><a href="https://campus-asthra-v2.netlify.app" target="_blank"><b>CampusAsthra</b></a><br />
+      <h4>Prototype Platform</h4>
+      <p><a href="https://campus-asthra-v2.netlify.app" target="_blank"><b>CampusAsthra (Prototype)</b></a><br />
       <sub>VTU-compliant SPA with Face ID login & Llama-3 AI</sub></p>
     </td>
     <td width="50%" align="center" style="padding: 14px;">
@@ -67,15 +67,12 @@
 <table width="100%" border="0" align="center">
   <tr>
     <td align="center" style="padding: 20px;">
-      <h3>CampusAsthra — Academic Management Platform</h3>
-      <p><i>A VTU-compliant Single Page Application featuring client-side Face ID biometrics, Llama-3 AI integration, SheetJS report parsing, and Firebase backend infrastructure.</i></p>
+      <h3>CampusAsthra — Academic Management Platform (Prototype)</h3>
+      <p><i>A VTU-compliant Single Page Application prototype featuring client-side Face ID biometrics, Llama-3 AI integration, SheetJS report parsing, and Firebase backend infrastructure.</i></p>
       <br />
       <p>
         <a href="https://campus-asthra-v2.netlify.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-2563EB?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/arya-ayyappa-halambi" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Repositories-111111?style=for-the-badge&logo=github&logoColor=2563EB&labelColor=0a0a0a" alt="Source Code" />
+          <img src="https://img.shields.io/badge/Live%20Prototype-🚀%20Visit%20Platform-2563EB?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
         </a>
       </p>
     </td>
