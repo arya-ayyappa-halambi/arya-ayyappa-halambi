@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/arya-ayyappa-halambi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=740&lines=Hi%2C%20I'm%20H%20R%20Arya%20Ayyappa%20Halambi%20%F0%9F%91%8B;CSE%20Undergrad%20%40%20BMSCE%20%7C%20First-Year%20CGPA%3A%208.95;Co-Architect%20%7C%20Student%20Academic%20Cycle%20Tracking%20System;Mega%20Hackathon%20Runner-Up%20%7C%20Co-Developer%20of%20Kavach;Building%20Automated%20Academic%20%26%20Predictive%20Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=750&lines=Hi%2C%20I'm%20H%20R%20Arya%20Ayyappa%20Halambi%20%F0%9F%91%8B;CSE%20%40%20BMSCE%20%7C%20First-Year%20CGPA%3A%208.95;Co-Developer%20%7C%20Academic%20Result%20Analysis%20%26%20Lifecycle%20Tracking%20System;Mega%20Hackathon%20Runner-Up%20%7C%20Co-Developer%20of%20Kavach;Building%20Institutional%20Software%20%26%20Predictive%20Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,8 +32,8 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I am a <b>Computer Science Engineering student at B.M.S. College of Engineering</b>, Bengaluru, maintaining a strong academic foundation with a <b>First-Year CGPA of 8.95/10.0</b> (Sem 1 SGPA: 9.25 | Sem 2 SGPA: 8.65).<br />
-  My engineering focus is centered on architecting institutional academic tracking platforms, automated document ingestion systems, and applied machine learning tools.
+  Computer Science & Engineering student at <b>B.M.S. College of Engineering</b>, Bengaluru, maintaining a <b>First-Year CGPA of 8.95/10.0</b> (Sem 1 SGPA: 9.25 | Sem 2 SGPA: 8.65).<br />
+  Core contributor to institutional software systems deployed for live departmental data management, NBA/NAAC accreditation reporting, and automated document analytics.
 </p>
 
 <p align="center">
@@ -46,9 +46,9 @@
 <table width="100%" border="0" align="center">
   <tr>
     <td width="50%" align="center" style="padding: 14px;">
-      <h4>Department Academic Initiative</h4>
-      <p><b>Student Academic Cycle Tracking Platform</b><br />
-      <sub>Co-architected platform for 1,000+ students (Awarded official Letter of Acknowledgement by Head of CSE Dept)</sub></p>
+      <h4>Department Software Initiative</h4>
+      <p><b>Academic Result Analysis & Lifecycle Tracking System</b><br />
+      <sub>Conceived, deployed, and demonstrated to the Vice Principal & HOD; certified by official Letter of Completion</sub></p>
     </td>
     <td width="50%" align="center" style="padding: 14px;">
       <h4>Competitive Achievement</h4>
@@ -75,13 +75,20 @@
 <table width="100%" border="0" align="center">
   <tr>
     <td align="center" style="padding: 22px;">
-      <h3>Student Academic Cycle Tracking Platform</h3>
-      <p><i>An enterprise-level analytics and management platform co-architected for 1,000+ students across the CSE Department at BMSCE. Features automated OCR document ingestion for digital result sheets, computation engines for SGPA/CGPA and backlogs, and dedicated administrative analytics dashboards for faculty and the Head of Department.</i></p>
+      <h3>Academic Result Analysis and Student Lifecycle Tracking System</h3>
+      <p><i>A voluntary departmental software system conceptualized, built, tested, and deployed for the Department of Computer Science & Engineering at BMSCE. Designed in alignment with NBA and NAAC accreditation reporting requirements and currently in active institutional use.</i></p>
+      <br />
+      <p align="left" style="max-width: 680px; margin: 0 auto;">
+        • <b>Automated Ingestion Pipeline:</b> Automated data processing with OCR-based document handling for digitized result sheets.<br />
+        • <b>Computation & Analytics:</b> Engines for SGPA/CGPA computation, student performance tracking, pass/fail determination, and backlog/eligibility analysis.<br />
+        • <b>Institutional Governance:</b> Centralized record management interface with dedicated analytics dashboards for faculty and the HOD.<br />
+        • <b>Demonstrated & Certified:</b> Presented and demonstrated to the <b>Vice Principal</b> and <b>Heads of Department</b>; verified by official <b>Letter of Completion</b>.
+      </p>
       <br />
       <p>
-        <img src="https://img.shields.io/badge/Scale-1000%2B%20Students-2563EB?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="User Scale" />
-        <img src="https://img.shields.io/badge/Recognition-HOD%20Letter%20of%20Acknowledgement-111111?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="Recognition" />
-        <img src="https://img.shields.io/badge/Department-CSE%20%40%20BMSCE-2563EB?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="Department" />
+        <img src="https://img.shields.io/badge/Status-In_Active_Use-success?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="In Active Use" />
+        <img src="https://img.shields.io/badge/Accreditation-NBA_%26_NAAC_Compliant-2563EB?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="NBA NAAC" />
+        <img src="https://img.shields.io/badge/Recognition-Letter_of_Completion_(HOD)-111111?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="Letter of Completion" />
       </p>
     </td>
   </tr>
