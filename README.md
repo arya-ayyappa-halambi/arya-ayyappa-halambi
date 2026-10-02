@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/arya-ayyappa-halambi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=750&lines=Hi%2C%20I'm%20H%20R%20Arya%20Ayyappa%20Halambi%20%F0%9F%91%8B;CSE%20%40%20BMSCE%20%7C%20First-Year%20CGPA%3A%208.95;Co-Developer%20%7C%20Academic%20Result%20Analysis%20%26%20Lifecycle%20Tracking%20System;Mega%20Hackathon%20Runner-Up%20%7C%20Co-Developer%20of%20Kavach;Building%20Institutional%20Software%20%26%20Predictive%20Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=820&lines=Hi%2C%20I'm%20H%20R%20Arya%20Ayyappa%20Halambi%20%F0%9F%91%8B;CSE%20%40%20BMSCE%20%7C%20First-Year%20CGPA%3A%208.95;Co-Developer%20%7C%20BMSCE%20Academic%20Lifecycle%20Platform;Mega%20Hackathon%20Runner-Up%20%7C%20Co-Developer%20of%20Kavach;Building%20Automated%20Academic%20%26%20Predictive%20Systems" alt="Typing SVG" />
   </a>
 </p>
 
