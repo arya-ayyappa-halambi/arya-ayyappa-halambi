@@ -32,8 +32,8 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Computer Science & Engineering student at <b>B.M.S. College of Engineering</b>, Bengaluru, maintaining a <b>First-Year CGPA of 8.95/10.0</b> (Sem 1 SGPA: 9.25 | Sem 2 SGPA: 8.65)[cite: 1].<br />
-  Core contributor to institutional software systems deployed for live departmental data management, NBA/NAAC accreditation reporting, and automated document analytics[cite: 16].
+  Computer Science & Engineering student at <b>B.M.S. College of Engineering</b>, Bengaluru, maintaining a <b>First-Year CGPA of 8.95/10.0</b> (Sem 1 SGPA: 9.25 | Sem 2 SGPA: 8.65).<br />
+  Core contributor to institutional software systems deployed for live departmental data management, NBA/NAAC accreditation reporting, and automated document analytics.
 </p>
 
 <p align="center">
@@ -48,24 +48,24 @@
     <td width="50%" align="center" style="padding: 14px;">
       <h4>Department Software Initiative</h4>
       <p><b>Academic Result Analysis & Lifecycle Tracking System</b><br />
-      <sub>Conceived, deployed, and demonstrated to the Vice Principal & HOD; certified by official Letter of Completion[cite: 16]</sub></p>
+      <sub>Conceived, deployed, and demonstrated to the Vice Principal & HOD; certified by official Letter of Completion</sub></p>
     </td>
     <td width="50%" align="center" style="padding: 14px;">
       <h4>Competitive Achievement</h4>
       <p><b>2nd Place — Inter-Collegiate Mega Hackathon</b><br />
-      <sub>Co-developed "Kavach" border intelligence platform with team[cite: 1]</sub></p>
+      <sub>Co-developed "Kavach" border intelligence platform with team</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" style="padding: 14px;">
       <h4>Prototype Platform</h4>
       <p><a href="https://campus-asthra-v2.netlify.app" target="_blank"><b>CampusAsthra (Working Prototype)</b></a><br />
-      <sub>VTU-compliant SPA with Face ID biometrics & Llama-3 AI[cite: 1]</sub></p>
+      <sub>VTU-compliant SPA with Face ID biometrics & Llama-3 AI</sub></p>
     </td>
     <td width="50%" align="center" style="padding: 14px;">
       <h4>Predictive Systems</h4>
       <p><b>Hotel Billing & Management System</b><br />
-      <sub>Python/Gradio web platform with Scikit-Learn linear regression[cite: 1]</sub></p>
+      <sub>Python/Gradio web platform with Scikit-Learn linear regression</sub></p>
     </td>
   </tr>
 </table>
@@ -76,13 +76,13 @@
   <tr>
     <td align="center" style="padding: 22px;">
       <h3>Academic Result Analysis and Student Lifecycle Tracking System</h3>
-      <p><i>A voluntary departmental software system conceptualized, built, tested, and deployed for the Department of Computer Science & Engineering at BMSCE[cite: 16]. Designed in alignment with NBA and NAAC accreditation reporting requirements and currently in active institutional use[cite: 16].</i></p>
+      <p><i>A voluntary departmental software system conceptualized, built, tested, and deployed for the Department of Computer Science & Engineering at BMSCE. Designed in alignment with NBA and NAAC accreditation reporting requirements and currently in active institutional use.</i></p>
       <br />
       <p align="left" style="max-width: 680px; margin: 0 auto;">
-        • <b>Automated Ingestion Pipeline:</b> Automated data processing with OCR-based document handling for digitised result sheets[cite: 16].<br />
-        • <b>Computation & Analytics:</b> Engines for SGPA/CGPA computation, student performance tracking, pass/fail determination, and backlog/eligibility analysis[cite: 16].<br />
-        • <b>Institutional Governance:</b> Centralised academic record management interface with dedicated analytics dashboards for faculty and the HOD[cite: 16].<br />
-        • <b>Demonstrated & Certified:</b> Presented and demonstrated to the <b>Vice Principal</b> and <b>Heads of Department</b>; verified by official <b>Letter of Completion</b>[cite: 16].
+        • <b>Automated Ingestion Pipeline:</b> Automated data processing with OCR-based document handling for digitised result sheets.<br />
+        • <b>Computation & Analytics:</b> Engines for SGPA/CGPA computation, student performance tracking, pass/fail determination, and backlog/eligibility analysis.<br />
+        • <b>Institutional Governance:</b> Centralised academic record management interface with dedicated analytics dashboards for faculty and the HOD.<br />
+        • <b>Demonstrated & Certified:</b> Presented and demonstrated to the <b>Vice Principal</b> and <b>Heads of Department</b>; verified by official <b>Letter of Completion</b>.
       </p>
       <br />
       <p>
